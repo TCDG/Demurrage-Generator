@@ -1,0 +1,13 @@
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\bin\Debug\demurrage generator.exe.config
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\bin\Debug\demurrage generator.exe
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\bin\Debug\demurrage generator.pdb
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\obj\Debug\demurrage generator.csprojResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\obj\Debug\demurrage_generator.Form1.resources
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\obj\Debug\demurrage_generator.Properties.Resources.resources
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\obj\Debug\demurrage generator.csproj.GenerateResource.Cache
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\obj\Debug\demurrage generator.exe
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\obj\Debug\demurrage generator.pdb
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\bin\Debug\demurrage generator.exe.manifest
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\bin\Debug\demurrage generator.application
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\obj\Debug\demurrage generator.exe.manifest
+c:\users\simon\documents\visual studio 2015\Projects\demurrage generator\demurrage generator\obj\Debug\demurrage generator.application
